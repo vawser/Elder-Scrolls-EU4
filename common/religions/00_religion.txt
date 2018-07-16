@@ -1,0 +1,1677 @@
+imperial_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    eight_divines = {
+		color = { 1.0 0.78 0.93 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = eight_divines
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES
+        }
+	}
+    nine_divines = {
+		color = { 0.78 0.96 1.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = nine_divines
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES
+        }
+	}
+    maruhkati = {
+		color = { 0 0 0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = maruhkati
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            THE_EIGHT
+        }
+	}
+    
+    harmonized_modifier = harmonized_imperial
+	crusade_name = CRUSADE
+}
+reachmen_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    old_gods = {
+		color = { 0.16 0.24 0.39 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = old_gods
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            OUTSIDE_GODS NEW_GODS
+        }
+	}
+    forsworn_heresy = {
+		color = { 0.26 0.22 0.29 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = forsworn_heresy
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            OUTSIDE_GODS NEW_GODS
+        }
+	}
+    harmonized_modifier = harmonized_reachmen
+	crusade_name = HOLY_WAR
+}
+atmoran_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    animism = {
+		color = { 0.56 0.94 0.94 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = animism
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DEMONS
+        }
+	}
+    dragon_cult = {
+		color = { 0.50 0.13 0.01 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = dragon_cult
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DEMONS
+        }
+	}
+    anuic_skaal = {
+		color = { 0.45 0.63 0.63 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = anuic_skaal
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DEMONS DAEDRA GOD_HERMAMORA
+        }
+	}
+    harmonized_modifier = harmonized_atmoran
+	crusade_name = HOLY_WAR
+}
+redguard_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    alikr = {
+		color = { 0.67 0.26 0.08 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = alikr
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES MALOOC
+        }
+	}
+    satakal = {
+		color = { 1.0 0.29 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = satakal
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES MALOOC
+        }
+	}
+    
+    harmonized_modifier = harmonized_redguard
+	crusade_name = HOONDING
+}
+mer_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    auri_el = {
+		color = { 1.0 1.0 0.6 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = auri_el
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES
+        }
+	}
+    green_pact = {
+		color = { 0.0 0.71 0.24 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = green_pact
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES
+        }
+	}
+    blacksap = {
+		color = { 0.0 0.24 0.08 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = blacksap
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES
+        }
+	}
+    
+    harmonized_modifier = harmonized_mer
+	crusade_name = INQUISITION
+}
+dunmer_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    alsivi = {
+		color = { 0.77 0.4 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = alsivi
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_MEHRUNES_DAGON GOD_SHEOGORATH GOD_MOLAG_BAL GOD_MALACATH
+        }
+	}
+    nerevarine = {
+		color = { 1.0 0.77 0.37 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = nerevarine
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_MEHRUNES_DAGON GOD_SHEOGORATH GOD_MOLAG_BAL GOD_MALACATH
+        }
+	}
+    old_velothi = {
+		color = { 0.67 0.58 0.42 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = old_velothi
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_MEHRUNES_DAGON GOD_SHEOGORATH GOD_MOLAG_BAL GOD_MALACATH
+        }
+	}
+    reclamationist = {
+		color = { 0.73 0.48 0.06 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = reclamationist
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_MEHRUNES_DAGON GOD_SHEOGORATH GOD_MOLAG_BAL GOD_MALACATH
+        }
+	}
+    
+    harmonized_modifier = harmonized_dunmer
+	crusade_name = TRIBUNAL_WAR
+}
+daedric_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    azura = {
+		color = { 0.0 0.80 0.80 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = azura
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM GOD_NOCTURNAL
+        }
+	}
+    boethiah = {
+		color = { 0.56 0.14 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = boethiah
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM GOD_MOLAG_BAL GOD_VAERMINA
+        }
+	}
+    clavicus = {
+		color = { 1.0 0.78 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = clavicus
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM
+        }
+	}
+    hermaeus = {
+		color = { 0.37 0.61 0.14 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = hermaeus
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM GOD_VAERMINA
+        }
+	}
+    hircine = {
+		color = { 0.49 0.2 0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = hircine
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM
+        }
+	}
+    mehrunes = {
+		color = { 0.75 0 0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = mehrunes
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM
+        }
+	}
+    mephala = {
+		color = { 0.1 0.0 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = mephala
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM GOD_MOLAG_BAL
+        }
+	}
+    meridia = {
+		color = { 0.78 0.92 1.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = meridia
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_PELINAL GOD_NAMIRA GOD_MOLAG_BAL GOD_CLAVICUS
+        }
+	}
+    molag_bal = {
+        color = { 0.24 0 0.12 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = molag_bal
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM GOD_MEPHALA GOD_BOETHIAH
+        }
+	}
+    namira = {
+		color = { 0.37 0.37 0.1 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = namira
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM GOD_MERIDIA
+        }
+	}
+    nocturnal = {
+		color = { 0.0 0.0 0.3 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = nocturnal
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_AZURA
+        }
+	}
+    peryite = {
+		color = { 0.69 0.65 0.06 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = peryite
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_MEPHALA GOD_EBONARM GOD_VAERMINA
+        }
+	}
+    sanguine = {
+        color = { 0.76 0.12 0.34 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			GOD_MARA GOD_EBONARM
+		}
+		on_convert = {
+			change_religion = sanguine
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+
+        }
+	}
+    sheogorath = {
+        color = { 0.86 0.54 0.85 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = sheogorath
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_JYGGALAG
+        }
+	}
+    jyggalag = {
+		color = { 0.5 0.5 0.5 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			GOD_SHEOGORATH
+		}
+		on_convert = {
+			change_religion = jyggalag
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_SHEOGORATH
+        }
+	}
+    vaermina = {
+        color = { 0.2 0.12 0.31 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = vaermina
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_PERYITE GOD_EBONARM GOD_BOETHIAH GOD_HERMAEUS_MORA
+        }
+	}
+    malacath = {
+		color = { 0.2 0.40 0.2 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = malacath
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_EBONARM
+        }
+	}
+    harmonized_modifier = harmonized_daedra
+	crusade_name = CLEANSING
+}
+khajiit_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    riddlethar = {
+		color = { 0 0 0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = riddlethar
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_YFFER GOD_NIRNI
+        }
+	}
+    alkosh = {
+        color = { 0.73 0.28 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = alkosh
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_YFFER GOD_NIRNI
+        }
+	}
+    baan_dar = {
+		color = { 0.81 0.88 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = baan_dar
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_YFFER GOD_NIRNI
+        }
+	}
+    harmonized_modifier = harmonized_khajiit
+	crusade_name = HOLY_WAR
+}
+argonian_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    hist = {
+		color = { 0.0 0.65 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = hist
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            HIST_SAP
+        }
+	}
+    harmonized_modifier = harmonized_argonian
+	crusade_name = HOLY_WAR
+}
+obscuria_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    worms_cult = {
+		color = { 0.06 0.12 0.06 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = worms_cult
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_THE_DIVINES
+        }
+	}
+    sithis = {
+        color = { 0.15 0.15 0.15 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = sithis
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_ANU
+        }
+	}
+    harmonized_modifier = harmonized_obscuria
+	crusade_name = HOLY_WAR
+}
+oblivion_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    ideal_masters = {
+        color = { 0.20 0.08 0.47 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = ideal_masters
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+
+        }
+	}
+    harmonized_modifier = harmonized_oblivion
+	crusade_name = SUPREME_HARVEST
+}
+tsaesci_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    five_courts = {
+		color = { 1.0 0.5 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = five_courts
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_THE_DRAGONS
+        }
+	}
+    sun_court = {
+		color = { 1.0 1.0 0.2 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = sun_court
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_THE_DRAGONS
+        }
+	}
+    night_court = {
+		color = { 0.0 0.0 0.3 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = night_court
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_THE_DRAGONS
+        }
+	}
+    harmonized_modifier = harmonized_tsaesci
+	crusade_name = HOLY_WAR
+}
+kamal_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    kamal_pantheon = {
+		color = { 0.65 0.65 0.65 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = kamal_pantheon
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_WINTER_WIND
+        }
+	}
+    winter_wind = {
+		color = { 1.0 1.0 1.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = winter_wind
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_NORTH_WIND GOD_SOUTH_WIND GOD_EAST_WIND GOD_WEST_WIND
+        }
+	}
+    harmonized_modifier = harmonized_kamal
+	crusade_name = HOLY_WAR
+}
+tangmo_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    tangmo_pantheon = {
+		color = { 1.0 0.9 0.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = tangmo_pantheon
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DEMONS
+        }
+	}
+    bhut_cult = {
+        color = { 1.0 1.0 1.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = bhut_cult
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DEMONS
+        }
+	}
+    shani_cult = {
+		color = { 1.0 1.0 1.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = shani_cult
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DEMONS
+        }
+	}
+    harmonized_modifier = harmonized_tangmo
+	crusade_name = HOLY_WAR
+}
+potun_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    tiger_pantheon = {
+		color = { 0.87 0.7102 0.3654 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = tiger_pantheon
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DEMONS
+        }
+	}
+    black_dragon = {
+		color = { 1.0 1.0 1.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = black_dragon
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_SUMMER_SERPENT GOD_ELDER_SERPENT GOD_WINTER_SERPENT GOD_SPRING_SERPENT GOD_AUTUMN_SERPENT
+        }
+	}
+    kapotun_pantheon = {
+        color = { 0.87 0.7102 0.3654 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = kapotun_pantheon
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            GOD_SUMMER_SERPENT GOD_ELDER_SERPENT GOD_WINTER_SERPENT GOD_SPRING_SERPENT GOD_AUTUMN_SERPENT
+        }
+	}
+    harmonized_modifier = harmonized_potun
+	crusade_name = HOLY_WAR
+}
+maormer_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+    
+    pyandoneaic = {
+		color = { 0.63 0.0 1.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = pyandoneaic
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES
+        }
+	}
+    postorgnumic = {
+		color = { 0.92 0.69 1.0 }
+		icon = 1
+
+		country = {
+			
+		}
+		country_as_secondary = {
+			
+		}
+		
+		allowed_conversion = {
+			
+		}
+		on_convert = {
+			change_religion = postorgnumic
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { 
+            DAEDRA DEMONS DAEDRIC_PRINCES
+        }
+	}
+    harmonized_modifier = harmonized_maormer
+	crusade_name = HOLY_WAR
+}
+

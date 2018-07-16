@@ -1,0 +1,63 @@
+﻿l_english:
+ # Cultures
+ nedic_group: "Nedic"
+ imperial: "Imperial"
+ nibenean: "Nibenean"
+ colovian: "Colovian"
+ nord: "Nord"
+ skaal: "Skaal"
+ breton: "Breton"
+ reachmen: "Reachmen"
+ atmoran: "Atmoran"
+ 
+ yokudan_group: "Yokudan"
+ yokudan: "Yokudan"
+ redguard: "Redguard"
+ 
+ aldmeris_group: "Aldmeris"
+ bosmer: "Bosmer"
+ ayleid: "Ayleid"
+ altmer: "Altmer"
+ maormer: "Maormer"
+ falmer: "Falmer"
+ dwemer: "Dwemer"
+ 
+ chimeris_group: "Chimeris"
+ dunmer: "Dunmer"
+ ashlander: "Ashlander"
+ orsimer: "Orsimer"
+ chimer: "Chimer"
+ 
+ argonian_group: "Argonian"
+ agaceph: "Agaceph"
+ archein: "Archein"
+ paatru: "Paatru"
+ naga: "Naga"
+ lukiul: "Lukiul"
+ 
+ khajiit_group: "Khajiit"
+ pellitinian: "Pellitinian"
+ anequinan: "Anequinan"
+ 
+ tsaesci_group: "Tsaesci"
+ tsaesci: "Tsaecei"
+ 
+ kamal_group: "Kamal"
+ kamal: "Kamal"
+ 
+ tangmo_group: "Tang Mo"
+ tangmo: "Tang Mo"
+ 
+ potun_group: "Potun"
+ potun: "Potun"
+ 
+ sload_group: "Sload"
+ sload: "Sload"
+ 
+ undead_group: "Undead"
+ draugr: "Draugr"
+ skeleton: "Skeleton"
+ 
+ daedra_group: "Daedra"
+ dremora: "Dremora"
+ daedric: "Daedric"
