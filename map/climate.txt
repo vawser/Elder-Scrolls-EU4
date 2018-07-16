@@ -1,0 +1,7 @@
+tropical = { }
+arid = { }
+arctic = { }
+mild_winter = { }
+normal_winter = { }
+severe_winter = { }
+impassable = { }

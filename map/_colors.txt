@@ -1,0 +1,4 @@
+# Land
+R: 0 to 100 - +10 (normal) - 2nd
+G: 100 to 250 - +10 (fast) - 1st
+B: 0 to 50 - +1 (slow) - 3rd

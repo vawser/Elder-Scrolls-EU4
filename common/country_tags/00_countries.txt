@@ -1,0 +1,176 @@
+BKM	= "countries/Black Marsh.txt"
+CYR = "countries/Cyrodil.txt"
+ELS = "countries/Elsweyr.txt"
+HAM = "countries/Hammerfell.txt"
+HIG = "countries/High Rock.txt"
+MOR = "countries/Morrowind.txt"
+SKY = "countries/Skyrim.txt"
+SUM = "countries/Summerset Isle.txt"
+VAL = "countries/Valenwood.txt"
+
+# List of possible countries (taken from Elder Kings):
+
+#------------
+# Argonia
+#------------
+# Black Marsh
+# Lilmoth
+# Stormhold
+# Thorn
+# Soulrest
+    
+#------------
+# Cyrodiil
+#------------
+# Cryodiil
+# Colovia
+# Nibenay
+# Cheydinhal
+# Anvil
+# Skingrad
+# Kvatch
+# Heartlands
+# Chorrol
+# Bravil
+# Bruma
+# Leyawiin
+
+#------------
+# Highrock
+#------------
+# Daggerfall
+# Camlorn
+# Wayrest
+# Northpoint
+# Evermore
+# Jehenna
+# Orsinium
+# Sharnhelm
+
+#------------
+# Skyrim
+#------------
+# Solitude
+# Whiterun
+# Hjaalmarch
+# Winterhold
+# Eastmarch
+# Falkreath
+# The Rift
+# The Reach
+# The Pale
+
+#------------
+# Hammerfell
+#------------
+# Sentinel
+# Skaven
+# Gilane
+# Rihad
+# Taneth
+# Elinhir
+# Dragontail
+# Hegathe
+
+#------------
+# Morrowind
+#------------
+# Mournhold
+# Blacklight
+# Tear
+# Ebonheart
+# Narsis
+# Hlaalu
+# Dres
+# Redoran
+# Indoril
+# Telvaani
+# Sadras
+# Sul
+# Veloth
+# Vvardenfell
+
+#------------
+# Pyandonea
+#------------
+# Abbarbas
+# Pyrrahn
+# Pontu
+
+#------------
+# Summerset Isles
+#------------
+# Aldmeri Dominion
+# Auridon
+# Shimmerene
+# Lillandril
+
+#------------
+# Valenwood
+#------------
+# Falinesti
+# Eldenroot
+# Eldengrove
+# Arenthia
+# Haven
+# Southpoint
+# Cormount
+# Silvenar
+
+#------------
+# Elsweyr
+#------------
+# Riverhold
+# Senchal
+# Rimmen
+# Anequina
+# Pellitine
+
+#------------
+# Kamal
+#------------
+# Kamaleimirvuk
+# Kamalettan
+# Mehekbaz
+# Ryzgaley
+# Kazedirica
+
+#------------
+# Potun
+#------------
+# Xieyang
+# Gucun
+# Beidao
+# Phaedin
+
+#------------
+# Tangmo
+#------------
+# Langdin
+# Sungkwa
+
+#------------
+# Tsaesci
+#------------
+# Gorkota
+# Kamipara
+# Sigtari
+# Panman
+# Nuku
+# Gorling 
+
+#------------
+# Other
+#------------
+# Solsthiem
+
+# Stros M'kai
+
+# Yokuda
+
+# Atmora
+# Frostking
+
+# Zasho
+# Cathnoquey
+

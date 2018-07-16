@@ -1,0 +1,9 @@
+dummy_region = {
+    areas = {
+        dummy_area
+    }
+}
+
+random_new_world_region = { }
+
+

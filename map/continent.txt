@@ -1,0 +1,2 @@
+europe = { }
+new_world = { }

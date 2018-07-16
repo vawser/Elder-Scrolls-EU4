@@ -1,0 +1,5 @@
+dummy_superregion = {
+    dummy_region
+}
+
+new_world_superregion = { }
